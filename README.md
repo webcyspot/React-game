@@ -16,7 +16,7 @@ We are using passport.js with steam API, so to login to out application you need
 1. Clone this repository
 
     ```bash
-    git clone https://github.com/RollingUpBalling/roll.git
+    git clone https://github.com/webcyspot/React-game.git
     ```
 2. ```bash
     cd backend
